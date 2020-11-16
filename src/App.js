@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import './App.css';
 import Header from './components/Header';
-import Footer from './components/Footer';
 import { Col, Container, Row } from './components/Grid';
 import UserTable from './components/UserTable';
 import users from "./users.json";
@@ -33,7 +32,6 @@ class App extends Component {
             </Col>
           </Row>
         </Container>
-        <Footer />
       </>
     );
   }
