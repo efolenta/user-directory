@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Boris Baldwin",
+        "department": "Produce",
+        "position": "Sales"
+    },
+    {
+        "id": 2,
+        "name": "Sacha Wilcox",
+        "department": "Meat",
+        "position": "Butcher"
+    },
+    {
+        "id": 3,
+        "name": "Tiya Russo",
+        "department": "Spirits",
+        "position": "Wine Expert"
+    },
+    {
+        "id": 4,
+        "name": "Barry O'Connor",
+        "department": "Seafood",
+        "position": "Fish Cleaner"
+    },
+    {
+        "id": 5,
+        "name": "Ronnie Lamb",
+        "department": "Deli",
+        "position": "Platter Planner"
+    },
+    {
+        "id": 6,
+        "name": "Ariya Holloway",
+        "department": "Bakery",
+        "position": "Cake Specialist"
+    },
+    {
+        "id": 7,
+        "name": "Timur Mohamed",
+        "department": "Health/Beauty",
+        "position": "Make Up"
+    },
+    {
+        "id": 8,
+        "name": "Darragh Chadwick",
+        "department": "Front",
+        "position": "Cart Runner"
+    },
+    {
+        "id": 9,
+        "name": "Abdulrahman Bradley",
+        "department": "Back",
+        "position": "Manager"
+    },
+    {
+        "id": 10,
+        "name": "Aneesa Burnett",
+        "department": "Back",
+        "position": "Stocker"
+    },
+    {
+        "id": 11,
+        "name": "Reya Cooley",
+        "department": "Front",
+        "position": "Cashier"
+    },
+    {
+        "id": 12,
+        "name": "Khalil Coombes",
+        "department": "Front",
+        "position": "Bagger"
+    },
+    {
+        "id": 13,
+        "name": "Mila-Rose Thatcher",
+        "department": "Front",
+        "position": "Manager"
+    }
+]
